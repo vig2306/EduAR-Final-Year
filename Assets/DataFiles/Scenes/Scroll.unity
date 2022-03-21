@@ -2862,7 +2862,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1651207546}
         m_TargetAssemblyTypeName: ChangeScreen, Assembly-CSharp
         m_MethodName: onpress
         m_Mode: 1

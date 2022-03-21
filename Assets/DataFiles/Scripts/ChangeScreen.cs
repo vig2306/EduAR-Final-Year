@@ -10,7 +10,8 @@ public class ChangeScreen : MonoBehaviour
 
     public void onpress(){
         string name = EventSystem.current.currentSelectedGameObject.name;
-        SceneManager.LoadScene(name+"Scene");
+        Debug.Log(name);
+        SceneManager.LoadScene("AlphabetScene");
                 
     }
     public void backbtn(){

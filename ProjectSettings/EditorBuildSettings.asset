@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/DataFiles/Scenes/Home/StartSCreen.unity
     guid: 820fb772148b848588b143c55cd3d5a7
+  - enabled: 1
+    path: Assets/DataFiles/Scenes/HomeScene.unity
+    guid: ad0a585abc5ee4a2499355cbf5040f4c
+  - enabled: 1
+    path: Assets/DataFiles/Scenes/Scroll.unity
+    guid: 52ef23c98895b49e08f15856f34b784d
+  - enabled: 1
+    path: Assets/DataFiles/Scenes/AlphabetScene.unity
+    guid: 048ab933521cc45fe8ab7aafc0740a52
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2258a9507414543758af71d5f2e2152c, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: bf32a3bad00eb488f9dc05d762a4632e, type: 2}
