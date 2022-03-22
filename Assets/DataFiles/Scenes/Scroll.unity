@@ -2004,7 +2004,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1651207546}
         m_TargetAssemblyTypeName: ChangeScreen, Assembly-CSharp
         m_MethodName: onpress
         m_Mode: 1
@@ -2268,7 +2268,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1651207546}
         m_TargetAssemblyTypeName: ChangeScreen, Assembly-CSharp
         m_MethodName: onpress
         m_Mode: 1
@@ -3208,6 +3208,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd7cd931865454e15b1d19817ac2b674, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  clickedIndex: 0
 --- !u!4 &1651207547
 Transform:
   m_ObjectHideFlags: 0

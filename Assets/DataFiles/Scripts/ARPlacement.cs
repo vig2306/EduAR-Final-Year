@@ -19,8 +19,15 @@ public class ARPlacement : MonoBehaviour
     public GameObject[] arModels;
     int modelIndex = 0;
 
+    private ChangeScreen changeScreen;
+
+
+
     void Start()
     {
+        modelIndex = ChangeScreen.clickedIndex;
+        Debug.Log("Inside ARP");
+        Debug.Log(modelIndex);
         aRRaycastManager = FindObjectOfType<ARRaycastManager>();
         UIArrows.SetActive(false);
 
