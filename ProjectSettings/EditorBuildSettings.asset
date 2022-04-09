@@ -23,9 +23,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/DataFiles/Geography/Scenes/main.unity
     guid: 8daa096e503a74817b8ced0440d8049e
-  - enabled: 1
+  - enabled: 0
     path: Assets/DataFiles/Geography/Scenes/SolarSystem.unity
     guid: 26e67e475a5e6494baae5583efa4cd80
+  - enabled: 1
+    path: Assets/DataFiles/Geography/Scenes/Geographyquiz.unity
+    guid: 4ba1486c0c7d2462d918c2ef53e68517
+  - enabled: 0
+    path: Assets/DataFiles/Geography/Scenes/TestQuiz.unity
+    guid: ffe52fe34702e4f0c931b7d5d44afe16
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2258a9507414543758af71d5f2e2152c, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: bf32a3bad00eb488f9dc05d762a4632e, type: 2}
