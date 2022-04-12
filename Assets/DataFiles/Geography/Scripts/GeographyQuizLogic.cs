@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using System.Linq;
 using System.Security.Cryptography;
 using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
 
 public class GeographyQuizLogic : MonoBehaviour
 {
@@ -153,4 +154,18 @@ public class GeographyQuizLogic : MonoBehaviour
 
        
     }
+
+    public void restartbtn()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        
+    }
+
+    public void backbtn()
+    {
+        SceneManager.LoadScene("GeographyHome");
+    }
+        
+        
+        
 }
