@@ -13,6 +13,9 @@ public class AlphaQuiz : MonoBehaviour
     int index,op2,op3;
     GameObject answer,tempGO;
     public GameObject[] options;
+    public GameObject f;
+    public GameObject o;
+    public GameObject r;
     GameObject alpha;
 
     public GameObject placementIndicator;
@@ -41,7 +44,9 @@ public class AlphaQuiz : MonoBehaviour
         UpdatePlacementPose();
         UpdatePlacementIndicator();
         checkAnswer();
-
+        Debug.Log(index);
+        Debug.Log(op2);
+        Debug.Log(op3);
 
     }
     void UpdatePlacementIndicator()
@@ -76,9 +81,13 @@ public class AlphaQuiz : MonoBehaviour
         // Debug.Log(op2);
         // Debug.Log(op3);
 
-        Vector3 newpose =  new Vector3(0.33f,0f,0f);
+        Vector3 newpose =  new Vector3(0.4f,0f,0f);
 
         Vector3 newpose2 =  new Vector3(0f,0.3f,0f);
+        Vector3 newpose3 =  new Vector3(0.1f,0.3f,0f);
+        Vector3 newpose4 =  new Vector3(0.2f,0.3f,0f);
+        Vector3 newpose5 =  new Vector3(0.3f,0.3f,0f);
+
 
         Debug.Log(options[0]);
         Debug.Log(options[1]);
@@ -90,8 +99,11 @@ public class AlphaQuiz : MonoBehaviour
         spawnedObject = Instantiate(options[2], PlacementPose.position + newpose, PlacementPose.rotation);
 
         spawnedObject = Instantiate(alphabets[index], PlacementPose.position + newpose2, PlacementPose.rotation);
+        spawnedObject = Instantiate(f, PlacementPose.position + newpose3, PlacementPose.rotation);
+        spawnedObject = Instantiate(o, PlacementPose.position + newpose4, PlacementPose.rotation);
+        spawnedObject = Instantiate(r, PlacementPose.position + newpose5, PlacementPose.rotation);
 
-  
+
     }
 
     void createQuestion()

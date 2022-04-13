@@ -14,7 +14,7 @@ public class HomeScene : MonoBehaviour
     }
     public void quizbtn()
     {
-        SceneManager.LoadScene("QuizScene");
+        SceneManager.LoadScene("AlphaQuiz");
     }
    
     public void backbtn()
