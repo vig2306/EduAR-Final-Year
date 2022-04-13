@@ -1,73 +1,316 @@
 fileFormatVersion: 2
-guid: 38223a61953ae4385b9ce6df1258e15d
+guid: f44b830c0892746259a48214a59a43d0
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable:
   - first:
-      74: -5823277341043362291
-    second: Armature.008|Armature.008|Armature|Eat|Armature|Eat
+      74: 1851239248701444939
+    second: Armature|Armature|Armature|Eat|Armature|Eat
   - first:
-      74: 3305637477374697515
-    second: Armature.008|Armature.008|Armature|Iddle|Armature|Iddle
+      74: 633564160290659826
+    second: Armature|Armature|Armature|Iddle|Armature|Iddle
   - first:
-      74: -1858079477500353537
-    second: Armature.008|Armature.008|Armature|Run|Armature|Run
+      74: -8015247887383579603
+    second: Armature|Armature|Armature|Run|Armature|Run
   - first:
-      74: 3507826170186316226
-    second: Armature.008|Armature.008|Armature|Walk|Armature|Walk
+      74: -6703194519347915836
+    second: Armature|Armature|Armature|Walk|Armature|Walk
   - first:
-      74: 1856481000117135888
-    second: Armature.008|BaseCharacter:EyeLid_J_L_CTRL|Take 001|BaseLayer
+      74: 5971932675874303104
+    second: Armature|BaseCharacter:EyeLid_J_L_CTRL|Take 001|BaseLayer
   - first:
-      74: -5174588472019899205
-    second: Armature.008|BaseCharacter:EyeLid_J_L_GRP|Take 001|BaseLayer
+      74: -6774248514495447863
+    second: Armature|BaseCharacter:EyeLid_J_L_CTRL|Take 001|BaseLayer.001
   - first:
-      74: -3398124411951848548
-    second: Armature.008|BaseCharacter:EyeLid_J_R_CTRL|Take 001|BaseLayer
+      74: 2768942356846095033
+    second: Armature|BaseCharacter:EyeLid_J_L_CTRL|Take 001|BaseLayer.002
   - first:
-      74: 1870474825449071171
-    second: Armature.008|BaseCharacter:EyeLid_J_R_GRP|Take 001|BaseLayer
+      74: 4667132174389694037
+    second: Armature|BaseCharacter:EyeLid_J_L_GRP|Take 001|BaseLayer
   - first:
-      74: 1130507658136943904
-    second: Armature.008|BaseCharacter:head_J_CTRL|Take 001|BaseLayer
+      74: 8966352141456667073
+    second: Armature|BaseCharacter:EyeLid_J_L_GRP|Take 001|BaseLayer.001
   - first:
-      74: -5399613441604003541
-    second: Armature.008|BaseCharacter:head_J_GRP|Take 001|BaseLayer
+      74: 4793176964172108967
+    second: Armature|BaseCharacter:EyeLid_J_L_GRP|Take 001|BaseLayer.002
   - first:
-      74: -6505208610641209640
-    second: Armature.008|BaseCharacter:Jaw_J_CTRL|Take 001|BaseLayer
+      74: 3276243782273046948
+    second: Armature|BaseCharacter:EyeLid_J_R_CTRL|Take 001|BaseLayer
   - first:
-      74: -1260802630597991484
-    second: Armature.008|BaseCharacter:Jaw_J_GRP|Take 001|BaseLayer
+      74: 6619854432659656825
+    second: Armature|BaseCharacter:EyeLid_J_R_CTRL|Take 001|BaseLayer.001
   - first:
-      74: 2726714038658976841
-    second: Armature.008|BaseCharacter:LowerBack_J_CTRL|Take 001|BaseLayer
+      74: -653754703651855421
+    second: Armature|BaseCharacter:EyeLid_J_R_CTRL|Take 001|BaseLayer.002
   - first:
-      74: 7924779932434267699
-    second: Armature.008|BaseCharacter:LowerBack_J_GRP|Take 001|BaseLayer
+      74: -4648078675921479325
+    second: Armature|BaseCharacter:EyeLid_J_R_GRP|Take 001|BaseLayer
   - first:
-      74: -2643750812917804591
-    second: Armature.008|BaseCharacter:MiddleBack_j_CTRL|Take 001|BaseLayer
+      74: 3567470166068495650
+    second: Armature|BaseCharacter:EyeLid_J_R_GRP|Take 001|BaseLayer.001
   - first:
-      74: -9136386475656623876
-    second: Armature.008|BaseCharacter:MiddleBack_j_GRP|Take 001|BaseLayer
+      74: -2556525679936047730
+    second: Armature|BaseCharacter:EyeLid_J_R_GRP|Take 001|BaseLayer.002
   - first:
-      74: -5222858774056022439
-    second: Armature.008|BaseCharacter:Root_J_CTRL|Take 001|BaseLayer
+      74: -7630202981076507853
+    second: Armature|BaseCharacter:head_J_CTRL|Take 001|BaseLayer
   - first:
-      74: -1011704510174168150
-    second: Armature.008|BaseCharacter:Root_J_GRP|Take 001|BaseLayer
+      74: -6906999066889741336
+    second: Armature|BaseCharacter:head_J_CTRL|Take 001|BaseLayer.001
   - first:
-      74: 4540974997262033803
-    second: Armature.008|BaseCharacter:UpperBack_j_CTRL|Take 001|BaseLayer
+      74: -2288380523810345383
+    second: Armature|BaseCharacter:head_J_CTRL|Take 001|BaseLayer.002
   - first:
-      74: 1233854530848222834
-    second: Armature.008|BaseCharacter:UpperBack_j_GRP|Take 001|BaseLayer
+      74: 2672946542810918327
+    second: Armature|BaseCharacter:head_J_GRP|Take 001|BaseLayer
+  - first:
+      74: -7197595937678583809
+    second: Armature|BaseCharacter:head_J_GRP|Take 001|BaseLayer.001
+  - first:
+      74: 1168647490905614172
+    second: Armature|BaseCharacter:head_J_GRP|Take 001|BaseLayer.002
+  - first:
+      74: -7089753203267679209
+    second: Armature|BaseCharacter:Jaw_J_CTRL|Take 001|BaseLayer
+  - first:
+      74: -5365678891973173270
+    second: Armature|BaseCharacter:Jaw_J_CTRL|Take 001|BaseLayer.001
+  - first:
+      74: 8712762476962839337
+    second: Armature|BaseCharacter:Jaw_J_CTRL|Take 001|BaseLayer.002
+  - first:
+      74: 402925478970908184
+    second: Armature|BaseCharacter:Jaw_J_GRP|Take 001|BaseLayer
+  - first:
+      74: -8973848083954916611
+    second: Armature|BaseCharacter:Jaw_J_GRP|Take 001|BaseLayer.001
+  - first:
+      74: 757030414263863357
+    second: Armature|BaseCharacter:Jaw_J_GRP|Take 001|BaseLayer.002
+  - first:
+      74: 7543211460155633910
+    second: Armature|BaseCharacter:LowerBack_J_CTRL|Take 001|BaseLayer
+  - first:
+      74: -6108612479671137176
+    second: Armature|BaseCharacter:LowerBack_J_CTRL|Take 001|BaseLayer.001
+  - first:
+      74: 5668017369448076455
+    second: Armature|BaseCharacter:LowerBack_J_CTRL|Take 001|BaseLayer.002
+  - first:
+      74: 786653594025606263
+    second: Armature|BaseCharacter:LowerBack_J_GRP|Take 001|BaseLayer
+  - first:
+      74: 7615930752023446007
+    second: Armature|BaseCharacter:LowerBack_J_GRP|Take 001|BaseLayer.001
+  - first:
+      74: -1502241360595657597
+    second: Armature|BaseCharacter:LowerBack_J_GRP|Take 001|BaseLayer.002
+  - first:
+      74: 2033267948193463472
+    second: Armature|BaseCharacter:MiddleBack_j_CTRL|Take 001|BaseLayer
+  - first:
+      74: 7907844825033020898
+    second: Armature|BaseCharacter:MiddleBack_j_CTRL|Take 001|BaseLayer.001
+  - first:
+      74: 962889433660475171
+    second: Armature|BaseCharacter:MiddleBack_j_CTRL|Take 001|BaseLayer.002
+  - first:
+      74: 2229681914151063903
+    second: Armature|BaseCharacter:MiddleBack_j_GRP|Take 001|BaseLayer
+  - first:
+      74: 6755887082731651848
+    second: Armature|BaseCharacter:MiddleBack_j_GRP|Take 001|BaseLayer.001
+  - first:
+      74: 7946358641549317509
+    second: Armature|BaseCharacter:MiddleBack_j_GRP|Take 001|BaseLayer.002
+  - first:
+      74: -3659927830429675518
+    second: Armature|BaseCharacter:Root_J_CTRL|Take 001|BaseLayer
+  - first:
+      74: 4795215929128744922
+    second: Armature|BaseCharacter:Root_J_CTRL|Take 001|BaseLayer.001
+  - first:
+      74: -4387074286467130795
+    second: Armature|BaseCharacter:Root_J_CTRL|Take 001|BaseLayer.002
+  - first:
+      74: -1442043365842401663
+    second: Armature|BaseCharacter:Root_J_GRP|Take 001|BaseLayer
+  - first:
+      74: -7064050702296933363
+    second: Armature|BaseCharacter:Root_J_GRP|Take 001|BaseLayer.001
+  - first:
+      74: 407646776744105457
+    second: Armature|BaseCharacter:Root_J_GRP|Take 001|BaseLayer.002
+  - first:
+      74: 8038623403930155698
+    second: Armature|BaseCharacter:UpperBack_j_CTRL|Take 001|BaseLayer
+  - first:
+      74: 1864528191749531606
+    second: Armature|BaseCharacter:UpperBack_j_CTRL|Take 001|BaseLayer.001
+  - first:
+      74: 6669550672930931379
+    second: Armature|BaseCharacter:UpperBack_j_CTRL|Take 001|BaseLayer.002
+  - first:
+      74: -8833311985631805117
+    second: Armature|BaseCharacter:UpperBack_j_GRP|Take 001|BaseLayer
+  - first:
+      74: -7538451265734778719
+    second: Armature|BaseCharacter:UpperBack_j_GRP|Take 001|BaseLayer.001
+  - first:
+      74: 2029236548944193702
+    second: Armature|BaseCharacter:UpperBack_j_GRP|Take 001|BaseLayer.002
+  - first:
+      74: 806678890804433903
+    second: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp
+  - first:
+      74: -3547300081384018698
+    second: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp.001
+  - first:
+      74: -2880985149838014525
+    second: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp.002
+  - first:
+      74: -8950042643101510850
+    second: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp.003
+  - first:
+      74: 3834699391160389466
+    second: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp_Lef
+  - first:
+      74: -4986111430304100742
+    second: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp_Rig
+  - first:
+      74: -8888075241630057161
+    second: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|RL_Extend
+  - first:
+      74: 6734625233818951988
+    second: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp
+  - first:
+      74: -6386643455637391908
+    second: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp.001
+  - first:
+      74: 3449502591553032876
+    second: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp.002
+  - first:
+      74: -4460327616250970052
+    second: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp.003
+  - first:
+      74: -5875297519036340070
+    second: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp_Lef
+  - first:
+      74: -4780924856712924702
+    second: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp_Rig
+  - first:
+      74: 5310868075034208556
+    second: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|RL_Extend
+  - first:
+      74: 3487410587873410344
+    second: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp
+  - first:
+      74: -7239327536316535603
+    second: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp.001
+  - first:
+      74: 8488277768556438449
+    second: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp.002
+  - first:
+      74: -6222563638083292450
+    second: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp.003
+  - first:
+      74: -8729637618306758083
+    second: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp_Lef
+  - first:
+      74: 1471642575302147140
+    second: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp_Rig
+  - first:
+      74: 711763736442866603
+    second: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|RL_Extend
+  - first:
+      74: -7940252997638880962
+    second: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chi
+  - first:
+      74: -7735646671781731920
+    second: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chi.001
+  - first:
+      74: -580807764481554591
+    second: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chi.002
+  - first:
+      74: -1982245133759311560
+    second: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chi.003
+  - first:
+      74: -6769540299703282472
+    second: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chimp_L
+  - first:
+      74: -3790529967938939893
+    second: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chimp_R
+  - first:
+      74: 5620532783081853872
+    second: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|RL_Exte
+  - first:
+      74: -1117356383558976310
+    second: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chi
+  - first:
+      74: -7587846869835288286
+    second: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chi.001
+  - first:
+      74: 7731719016008410558
+    second: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chi.002
+  - first:
+      74: -2307661190589419084
+    second: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chi.003
+  - first:
+      74: 28839664698883825
+    second: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chimp_L
+  - first:
+      74: -1212134382826132152
+    second: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chimp_R
+  - first:
+      74: 3369055740965214640
+    second: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|RL_Exte
+  - first:
+      74: 8969065573656760829
+    second: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chi
+  - first:
+      74: -7228409603161076144
+    second: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chi.001
+  - first:
+      74: -4116559044569397888
+    second: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chi.002
+  - first:
+      74: 9111215373404554504
+    second: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chi.003
+  - first:
+      74: 2342515466539928604
+    second: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chimp_L
+  - first:
+      74: 4566338327602093410
+    second: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chimp_R
+  - first:
+      74: -3748839543722165869
+    second: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|RL_Exte
+  - first:
+      74: -4424579671489286188
+    second: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_LeftFootExtraFinger1|Chim
+  - first:
+      74: 5169359938341735711
+    second: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_LeftFootExtraFinger2|Chim
+  - first:
+      74: -5480852802922397559
+    second: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_LeftFootExtraFinger3|Chim
+  - first:
+      74: -2462483163773153783
+    second: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_RightFootExtraFinger1|Chi
+  - first:
+      74: 1481319442753103954
+    second: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_RightFootExtraFinger2|Chi
+  - first:
+      74: 2961775403192726975
+    second: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_RightFootExtraFinger3|Chi
+  - first:
+      74: 6444661556852961441
+    second: Armature|RL_ExtendedRoot|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_TempMotio
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.002
+      name: Material.001
     second: {fileID: 2100000, guid: 409b79f405aae41ff89f6f17dc4385d9, type: 2}
   materials:
     materialImportMode: 2
@@ -97,8 +340,8 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Armature.008|Armature.008|Armature|Eat|Armature|Eat
-      takeName: Armature.008|Armature.008|Armature|Eat|Armature|Eat
+      name: Armature|Armature|Armature|Eat|Armature|Eat
+      takeName: Armature|Armature|Armature|Eat|Armature|Eat
       internalID: 0
       firstFrame: 0
       lastFrame: 15
@@ -126,8 +369,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|Armature.008|Armature|Iddle|Armature|Iddle
-      takeName: Armature.008|Armature.008|Armature|Iddle|Armature|Iddle
+      name: Armature|Armature|Armature|Iddle|Armature|Iddle
+      takeName: Armature|Armature|Armature|Iddle|Armature|Iddle
       internalID: 0
       firstFrame: 0
       lastFrame: 33
@@ -155,8 +398,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|Armature.008|Armature|Run|Armature|Run
-      takeName: Armature.008|Armature.008|Armature|Run|Armature|Run
+      name: Armature|Armature|Armature|Run|Armature|Run
+      takeName: Armature|Armature|Armature|Run|Armature|Run
       internalID: 0
       firstFrame: 0
       lastFrame: 10
@@ -184,8 +427,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|Armature.008|Armature|Walk|Armature|Walk
-      takeName: Armature.008|Armature.008|Armature|Walk|Armature|Walk
+      name: Armature|Armature|Armature|Walk|Armature|Walk
+      takeName: Armature|Armature|Armature|Walk|Armature|Walk
       internalID: 0
       firstFrame: 0
       lastFrame: 25
@@ -213,8 +456,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:EyeLid_J_L_CTRL|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:EyeLid_J_L_CTRL|Take 001|BaseLayer
+      name: Armature|BaseCharacter:EyeLid_J_L_CTRL|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:EyeLid_J_L_CTRL|Take 001|BaseLayer
       internalID: 0
       firstFrame: 0
       lastFrame: 151
@@ -242,8 +485,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:EyeLid_J_L_GRP|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:EyeLid_J_L_GRP|Take 001|BaseLayer
+      name: Armature|BaseCharacter:EyeLid_J_L_CTRL|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:EyeLid_J_L_CTRL|Take 001|BaseLayer.001
       internalID: 0
       firstFrame: 0
       lastFrame: 151
@@ -271,8 +514,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:EyeLid_J_R_CTRL|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:EyeLid_J_R_CTRL|Take 001|BaseLayer
+      name: Armature|BaseCharacter:EyeLid_J_L_CTRL|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:EyeLid_J_L_CTRL|Take 001|BaseLayer.002
       internalID: 0
       firstFrame: 0
       lastFrame: 151
@@ -300,8 +543,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:EyeLid_J_R_GRP|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:EyeLid_J_R_GRP|Take 001|BaseLayer
+      name: Armature|BaseCharacter:EyeLid_J_L_GRP|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:EyeLid_J_L_GRP|Take 001|BaseLayer
       internalID: 0
       firstFrame: 0
       lastFrame: 151
@@ -329,8 +572,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:head_J_CTRL|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:head_J_CTRL|Take 001|BaseLayer
+      name: Armature|BaseCharacter:EyeLid_J_L_GRP|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:EyeLid_J_L_GRP|Take 001|BaseLayer.001
       internalID: 0
       firstFrame: 0
       lastFrame: 151
@@ -358,8 +601,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:head_J_GRP|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:head_J_GRP|Take 001|BaseLayer
+      name: Armature|BaseCharacter:EyeLid_J_L_GRP|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:EyeLid_J_L_GRP|Take 001|BaseLayer.002
       internalID: 0
       firstFrame: 0
       lastFrame: 151
@@ -387,8 +630,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:Jaw_J_CTRL|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:Jaw_J_CTRL|Take 001|BaseLayer
+      name: Armature|BaseCharacter:EyeLid_J_R_CTRL|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:EyeLid_J_R_CTRL|Take 001|BaseLayer
       internalID: 0
       firstFrame: 0
       lastFrame: 151
@@ -416,8 +659,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:Jaw_J_GRP|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:Jaw_J_GRP|Take 001|BaseLayer
+      name: Armature|BaseCharacter:EyeLid_J_R_CTRL|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:EyeLid_J_R_CTRL|Take 001|BaseLayer.001
       internalID: 0
       firstFrame: 0
       lastFrame: 151
@@ -445,8 +688,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:LowerBack_J_CTRL|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:LowerBack_J_CTRL|Take 001|BaseLayer
+      name: Armature|BaseCharacter:EyeLid_J_R_CTRL|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:EyeLid_J_R_CTRL|Take 001|BaseLayer.002
       internalID: 0
       firstFrame: 0
       lastFrame: 151
@@ -474,8 +717,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:LowerBack_J_GRP|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:LowerBack_J_GRP|Take 001|BaseLayer
+      name: Armature|BaseCharacter:EyeLid_J_R_GRP|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:EyeLid_J_R_GRP|Take 001|BaseLayer
       internalID: 0
       firstFrame: 0
       lastFrame: 151
@@ -503,8 +746,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:MiddleBack_j_CTRL|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:MiddleBack_j_CTRL|Take 001|BaseLayer
+      name: Armature|BaseCharacter:EyeLid_J_R_GRP|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:EyeLid_J_R_GRP|Take 001|BaseLayer.001
       internalID: 0
       firstFrame: 0
       lastFrame: 151
@@ -532,8 +775,646 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:MiddleBack_j_GRP|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:MiddleBack_j_GRP|Take 001|BaseLayer
+      name: Armature|BaseCharacter:EyeLid_J_R_GRP|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:EyeLid_J_R_GRP|Take 001|BaseLayer.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:head_J_CTRL|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:head_J_CTRL|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:head_J_CTRL|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:head_J_CTRL|Take 001|BaseLayer.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:head_J_CTRL|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:head_J_CTRL|Take 001|BaseLayer.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:head_J_GRP|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:head_J_GRP|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:head_J_GRP|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:head_J_GRP|Take 001|BaseLayer.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:head_J_GRP|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:head_J_GRP|Take 001|BaseLayer.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:Jaw_J_CTRL|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:Jaw_J_CTRL|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:Jaw_J_CTRL|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:Jaw_J_CTRL|Take 001|BaseLayer.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:Jaw_J_CTRL|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:Jaw_J_CTRL|Take 001|BaseLayer.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:Jaw_J_GRP|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:Jaw_J_GRP|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:Jaw_J_GRP|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:Jaw_J_GRP|Take 001|BaseLayer.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:Jaw_J_GRP|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:Jaw_J_GRP|Take 001|BaseLayer.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:LowerBack_J_CTRL|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:LowerBack_J_CTRL|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:LowerBack_J_CTRL|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:LowerBack_J_CTRL|Take 001|BaseLayer.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:LowerBack_J_CTRL|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:LowerBack_J_CTRL|Take 001|BaseLayer.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:LowerBack_J_GRP|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:LowerBack_J_GRP|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:LowerBack_J_GRP|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:LowerBack_J_GRP|Take 001|BaseLayer.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:LowerBack_J_GRP|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:LowerBack_J_GRP|Take 001|BaseLayer.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:MiddleBack_j_CTRL|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:MiddleBack_j_CTRL|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:MiddleBack_j_CTRL|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:MiddleBack_j_CTRL|Take 001|BaseLayer.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:MiddleBack_j_CTRL|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:MiddleBack_j_CTRL|Take 001|BaseLayer.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:MiddleBack_j_GRP|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:MiddleBack_j_GRP|Take 001|BaseLayer
       internalID: 0
       firstFrame: 0
       lastFrame: 24
@@ -561,8 +1442,66 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:Root_J_CTRL|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:Root_J_CTRL|Take 001|BaseLayer
+      name: Armature|BaseCharacter:MiddleBack_j_GRP|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:MiddleBack_j_GRP|Take 001|BaseLayer.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:MiddleBack_j_GRP|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:MiddleBack_j_GRP|Take 001|BaseLayer.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:Root_J_CTRL|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:Root_J_CTRL|Take 001|BaseLayer
       internalID: 0
       firstFrame: 0
       lastFrame: 1331
@@ -590,8 +1529,66 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:Root_J_GRP|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:Root_J_GRP|Take 001|BaseLayer
+      name: Armature|BaseCharacter:Root_J_CTRL|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:Root_J_CTRL|Take 001|BaseLayer.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1331
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:Root_J_CTRL|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:Root_J_CTRL|Take 001|BaseLayer.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1331
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:Root_J_GRP|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:Root_J_GRP|Take 001|BaseLayer
       internalID: 0
       firstFrame: 0
       lastFrame: 151
@@ -619,8 +1616,8 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:UpperBack_j_CTRL|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:UpperBack_j_CTRL|Take 001|BaseLayer
+      name: Armature|BaseCharacter:Root_J_GRP|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:Root_J_GRP|Take 001|BaseLayer.001
       internalID: 0
       firstFrame: 0
       lastFrame: 151
@@ -648,11 +1645,1606 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.008|BaseCharacter:UpperBack_j_GRP|Take 001|BaseLayer
-      takeName: Armature.008|BaseCharacter:UpperBack_j_GRP|Take 001|BaseLayer
+      name: Armature|BaseCharacter:Root_J_GRP|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:Root_J_GRP|Take 001|BaseLayer.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:UpperBack_j_CTRL|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:UpperBack_j_CTRL|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:UpperBack_j_CTRL|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:UpperBack_j_CTRL|Take 001|BaseLayer.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:UpperBack_j_CTRL|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:UpperBack_j_CTRL|Take 001|BaseLayer.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:UpperBack_j_GRP|Take 001|BaseLayer
+      takeName: Armature|BaseCharacter:UpperBack_j_GRP|Take 001|BaseLayer
       internalID: 0
       firstFrame: 0
       lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:UpperBack_j_GRP|Take 001|BaseLayer.001
+      takeName: Armature|BaseCharacter:UpperBack_j_GRP|Take 001|BaseLayer.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|BaseCharacter:UpperBack_j_GRP|Take 001|BaseLayer.002
+      takeName: Armature|BaseCharacter:UpperBack_j_GRP|Take 001|BaseLayer.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp
+      takeName: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp.001
+      takeName: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp.002
+      takeName: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp.003
+      takeName: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp.003
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp_Lef
+      takeName: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp_Lef
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp_Rig
+      takeName: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|Chimp_Rig
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|RL_Extend
+      takeName: Armature|Chimp_LeftFootExtraFinger1|Chimp_LeftFootExtraFinger1|RL_Extend
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp
+      takeName: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp.001
+      takeName: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp.002
+      takeName: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp.003
+      takeName: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp.003
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp_Lef
+      takeName: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp_Lef
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp_Rig
+      takeName: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|Chimp_Rig
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|RL_Extend
+      takeName: Armature|Chimp_LeftFootExtraFinger2|Chimp_LeftFootExtraFinger2|RL_Extend
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp
+      takeName: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp.001
+      takeName: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp.002
+      takeName: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp.003
+      takeName: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp.003
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp_Lef
+      takeName: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp_Lef
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp_Rig
+      takeName: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|Chimp_Rig
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|RL_Extend
+      takeName: Armature|Chimp_LeftFootExtraFinger3|Chimp_LeftFootExtraFinger3|RL_Extend
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chi
+      takeName: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chi
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chi.001
+      takeName: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chi.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chi.002
+      takeName: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chi.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chi.003
+      takeName: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chi.003
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chimp_L
+      takeName: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chimp_L
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chimp_R
+      takeName: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|Chimp_R
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|RL_Exte
+      takeName: Armature|Chimp_RightFootExtraFinger1|Chimp_RightFootExtraFinger1|RL_Exte
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chi
+      takeName: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chi
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chi.001
+      takeName: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chi.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chi.002
+      takeName: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chi.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chi.003
+      takeName: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chi.003
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chimp_L
+      takeName: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chimp_L
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chimp_R
+      takeName: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|Chimp_R
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|RL_Exte
+      takeName: Armature|Chimp_RightFootExtraFinger2|Chimp_RightFootExtraFinger2|RL_Exte
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chi
+      takeName: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chi
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chi.001
+      takeName: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chi.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chi.002
+      takeName: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chi.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chi.003
+      takeName: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chi.003
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chimp_L
+      takeName: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chimp_L
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chimp_R
+      takeName: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|Chimp_R
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|RL_Exte
+      takeName: Armature|Chimp_RightFootExtraFinger3|Chimp_RightFootExtraFinger3|RL_Exte
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_LeftFootExtraFinger1|Chim
+      takeName: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_LeftFootExtraFinger1|Chim
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_LeftFootExtraFinger2|Chim
+      takeName: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_LeftFootExtraFinger2|Chim
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_LeftFootExtraFinger3|Chim
+      takeName: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_LeftFootExtraFinger3|Chim
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_RightFootExtraFinger1|Chi
+      takeName: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_RightFootExtraFinger1|Chi
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_RightFootExtraFinger2|Chi
+      takeName: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_RightFootExtraFinger2|Chi
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_RightFootExtraFinger3|Chi
+      takeName: Armature|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_RightFootExtraFinger3|Chi
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|RL_ExtendedRoot|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_TempMotio
+      takeName: Armature|RL_ExtendedRoot|RL_ExtendedRoot|RL_ExtendedRoot|Chimp_TempMotio
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 846
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
