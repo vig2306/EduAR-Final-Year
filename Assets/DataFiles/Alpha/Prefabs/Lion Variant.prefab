@@ -130,6 +130,18 @@ PrefabInstance:
       propertyPath: m_TagString
       value: ARMultiModel
       objectReference: {fileID: 0}
+    - target: {fileID: 8879528566716807029, guid: fc289f9ccea094f539aa2adacd7a98a1, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.0025
+      objectReference: {fileID: 0}
+    - target: {fileID: 8879528566716807029, guid: fc289f9ccea094f539aa2adacd7a98a1, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.0025
+      objectReference: {fileID: 0}
+    - target: {fileID: 8879528566716807029, guid: fc289f9ccea094f539aa2adacd7a98a1, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.0025
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc289f9ccea094f539aa2adacd7a98a1, type: 3}
 --- !u!1 &7311360371792798504 stripped

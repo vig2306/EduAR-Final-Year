@@ -44,14 +44,14 @@ public class GeographyQuizLogic : MonoBehaviour
     {
         background.SetActive(false);
 
-        questionAnswers.Add("Sun","Which is the brightest star ?");
+        questionAnswers.Add("Sun","Which object is at the center of the solar system?");
         questionAnswers.Add("Earth","Only planet which has life on it is ?");
         questionAnswers.Add("Mars"," This planet is known as the red planet ");
         questionAnswers.Add("Mercury","Closest Planet to the Sun");
         questionAnswers.Add("Jupiter","Largest planet in the solar system");
         questionAnswers.Add("Neptune"," Fartherst planet from the sun");
         questionAnswers.Add("Venus"," Hottest planet in the solar system");
-        questionAnswers.Add("Uranus","Eigth Question");
+        questionAnswers.Add("Uranus","Which planet has recorded the lowest temperature");
         questionAnswers.Add("Saturn","Which planet has rings ?");
 
         for(int i=0;i<9;i++)
