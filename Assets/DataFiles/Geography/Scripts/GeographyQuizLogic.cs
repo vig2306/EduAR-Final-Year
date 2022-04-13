@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using System.Linq;
 using System.Security.Cryptography;
 using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
 
 public class GeographyQuizLogic : MonoBehaviour
 {
@@ -15,10 +16,19 @@ public class GeographyQuizLogic : MonoBehaviour
     string temp,tempGO;
     GameObject temp3D;
     int index;
+    int score = 0;
     public Text questionText;
     public Text optionOne;
     public Text optionTwo;
     public Text optionThree;
+    public Text scoreText;
+    public Text finalScoreText;
+
+    public GameObject pan1;
+    public GameObject pan2;
+    public GameObject background;
+
+    public GameObject arCamera;
 
     public GameObject[] firstOption;
     public GameObject[] secondOption;
@@ -27,18 +37,22 @@ public class GeographyQuizLogic : MonoBehaviour
     public GameObject[] objectOption;
 
 
+
+
     // Start is called before the first frame update
     void Start()
     {
-        questionAnswers.Add("Sun","First Question");
-        questionAnswers.Add("Earth","Second Question");
-        questionAnswers.Add("Mars","Third Question");
-        questionAnswers.Add("Mercury","Fourth Question");
-        questionAnswers.Add("Jupiter","Fifth Question");
-        questionAnswers.Add("Neptune","Sixth Question");
-        questionAnswers.Add("Venus","Seventh Question");
+        background.SetActive(false);
+
+        questionAnswers.Add("Sun","Which is the brightest star ?");
+        questionAnswers.Add("Earth","Only planet which has life on it is ?");
+        questionAnswers.Add("Mars"," This planet is known as the red planet ");
+        questionAnswers.Add("Mercury","Closest Planet to the Sun");
+        questionAnswers.Add("Jupiter","Largest planet in the solar system");
+        questionAnswers.Add("Neptune"," Fartherst planet from the sun");
+        questionAnswers.Add("Venus"," Hottest planet in the solar system");
         questionAnswers.Add("Uranus","Eigth Question");
-        questionAnswers.Add("Saturn","Ninth Question");
+        questionAnswers.Add("Saturn","Which planet has rings ?");
 
         for(int i=0;i<9;i++)
         {
@@ -112,8 +126,10 @@ public class GeographyQuizLogic : MonoBehaviour
 
         if(clickedValue == temp)
         {
-             Debug.Log("GG");
-
+            Debug.Log("GG");
+            score = score + 1;
+            var dummy = "Score : " + score.ToString();
+            scoreText.text = dummy;
             for(int i=0;i<9;i++)
             {
                 firstOption[i].SetActive(false);
@@ -125,6 +141,12 @@ public class GeographyQuizLogic : MonoBehaviour
         }
         else
         {
+            var dummy = "Score : " + score.ToString();
+            finalScoreText.text = dummy;
+            background.SetActive(true);
+            pan1.SetActive(false);
+            pan2.SetActive(false);
+            arCamera.SetActive(false);
             Debug.Log(":(");
             Debug.Log("Quiz");
         }
@@ -132,4 +154,18 @@ public class GeographyQuizLogic : MonoBehaviour
 
        
     }
+
+    public void restartbtn()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        
+    }
+
+    public void backbtn()
+    {
+        SceneManager.LoadScene("GeographyHome");
+    }
+        
+        
+        
 }

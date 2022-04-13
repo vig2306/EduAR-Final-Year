@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1274353509484810639}
   - component: {fileID: 7408394658083606579}
   - component: {fileID: 4932028039519450486}
-  - component: {fileID: 7798332517838443431}
+  - component: {fileID: -4488009842395606453}
   m_Layer: 0
   m_Name: 'Saturn '
   m_TagString: hasInfo
@@ -96,16 +96,17 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &7798332517838443431
-MonoBehaviour:
+--- !u!64 &-4488009842395606453
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6098375850546797115}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed781dbef7ef2439fb72b02dbadd457c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  SectionInfo: {fileID: 0}
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}

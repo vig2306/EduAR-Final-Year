@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6593331551070116741}
   - component: {fileID: 222914911691779347}
   - component: {fileID: 296179875716655602}
-  - component: {fileID: 2666660571663056431}
+  - component: {fileID: -6009265743636604366}
   m_Layer: 0
   m_Name: Sun
   m_TagString: hasInfo
@@ -96,16 +96,17 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &2666660571663056431
-MonoBehaviour:
+--- !u!64 &-6009265743636604366
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2277651850426275961}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed781dbef7ef2439fb72b02dbadd457c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  SectionInfo: {fileID: 0}
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}

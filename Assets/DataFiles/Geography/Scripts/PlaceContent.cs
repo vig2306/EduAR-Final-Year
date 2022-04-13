@@ -4,6 +4,8 @@ using UnityEngine.XR.ARSubsystems;
 using UnityEngine.XR.ARFoundation;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+
 
 public class PlaceContent : MonoBehaviour {
 
@@ -33,5 +35,16 @@ public class PlaceContent : MonoBehaviour {
         List<RaycastResult> results = new List<RaycastResult>();
         raycaster.Raycast(data, results);
         return results.Count > 0;
+    }
+
+    public void restartbtn()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        
+    }
+
+    public void backbtn()
+    {
+        SceneManager.LoadScene("GeographyHome");
     }
 }

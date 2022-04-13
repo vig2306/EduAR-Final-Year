@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
 using UnityEngine.XR.ARSubsystems;
+using UnityEngine.SceneManagement;
 
 public class ARPlacementSolar : MonoBehaviour
 {
@@ -62,6 +63,17 @@ public class ARPlacementSolar : MonoBehaviour
     void ARPlaceObject()
     {
         spawnedObject = Instantiate(arObjectToSpawn, PlacementPose.position, PlacementPose.rotation);
+    }
+
+    public void restartbtn()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        
+    }
+
+    public void backbtn()
+    {
+        SceneManager.LoadScene("GeographyHome");
     }
 
 
