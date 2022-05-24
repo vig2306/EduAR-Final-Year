@@ -6,30 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/DataFiles/Alpha/Scenes/AQuiz.unity
+    guid: ca4129a9ea6714fd0bd1d2fba1aceaf9
+  - enabled: 0
     path: Assets/DataFiles/Home/StartSCreen.unity
     guid: 820fb772148b848588b143c55cd3d5a7
-  - enabled: 1
+  - enabled: 0
     path: Assets/DataFiles/Alpha/Scenes/HomeScene.unity
     guid: ad0a585abc5ee4a2499355cbf5040f4c
-  - enabled: 1
+  - enabled: 0
     path: Assets/DataFiles/Alpha/Scenes/Scroll.unity
     guid: 52ef23c98895b49e08f15856f34b784d
-  - enabled: 1
+  - enabled: 0
     path: Assets/DataFiles/Alpha/Scenes/AlphabetScene.unity
     guid: 048ab933521cc45fe8ab7aafc0740a52
-  - enabled: 1
+  - enabled: 0
     path: Assets/DataFiles/Alpha/Scenes/AlphaQuiz.unity
     guid: 376ef88e30c234300885d734715ccf27
-  - enabled: 1
+  - enabled: 0
     path: Assets/DataFiles/Geography/Scenes/GeographyHome.unity
     guid: 840b67236d72e464bbaf0c97ce5568e6
-  - enabled: 1
+  - enabled: 0
     path: Assets/DataFiles/Geography/Scenes/main.unity
     guid: 8daa096e503a74817b8ced0440d8049e
-  - enabled: 1
+  - enabled: 0
     path: Assets/DataFiles/Geography/Scenes/SolarSystem.unity
     guid: 26e67e475a5e6494baae5583efa4cd80
-  - enabled: 1
+  - enabled: 0
     path: Assets/DataFiles/Geography/Scenes/Geographyquiz.unity
     guid: 4ba1486c0c7d2462d918c2ef53e68517
   m_configObjects:

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
 using UnityEngine.XR.ARSubsystems;
+using UnityEngine.SceneManagement;
 
 public class AlphaQuiz : MonoBehaviour
 {
@@ -20,6 +21,12 @@ public class AlphaQuiz : MonoBehaviour
 
     public GameObject placementIndicator;
     private GameObject spawnedObject;
+    private GameObject spawnedObject1;
+    private GameObject spawnedObject2;
+    private GameObject spawnedObject3;
+    private GameObject spawnedObject4;
+    private GameObject spawnedObject5;
+    private GameObject spawnedObject6;
     private Pose PlacementPose;
     private ARRaycastManager aRRaycastManager;
     private bool placementPoseIsValid = false;
@@ -40,10 +47,11 @@ public class AlphaQuiz : MonoBehaviour
         {
             ARPlaceObject();
         }
+        ARPlaceObject1();
 
         UpdatePlacementPose();
         UpdatePlacementIndicator();
-        checkAnswer();
+        // checkAnswer();
         Debug.Log(index);
         Debug.Log(op2);
         Debug.Log(op3);
@@ -73,6 +81,36 @@ public class AlphaQuiz : MonoBehaviour
         {
             PlacementPose = hits[0].pose;
         }
+        Debug.Log("PP:"+PlacementPose);
+    }
+
+    void ARPlaceObject1()
+    
+            {
+        // Debug.Log(index);
+        // Debug.Log(op2);
+        // Debug.Log(op3);
+
+        Vector3 newpose =  new Vector3(0.4f,0f,0f);
+
+        // Vector3 newpose2 =  new Vector3(0f,0.3f,0f);
+        // Vector3 newpose3 =  new Vector3(0.1f,0.3f,0f);
+        // Vector3 newpose4 =  new Vector3(0.2f,0.3f,0f);
+        // Vector3 newpose5 =  new Vector3(0.3f,0.3f,0f);
+
+
+        Debug.Log(options[0]);
+        Debug.Log(options[1]);
+        Debug.Log(options[2]);
+        Debug.Log(alphabets[index]);
+        Debug.Log(" Brealklk");
+        Debug.Log(PlacementPose.position - newpose);
+        Debug.Log(PlacementPose.position);
+        Debug.Log(PlacementPose.position + newpose);
+
+        // spawnedObject = Instantiate(options[0], PlacementPose.position - newpose, PlacementPose.rotation);
+        // spawnedObject1 = Instantiate(options[1], PlacementPose.position, PlacementPose.rotation);
+        // spawnedObject2 = Instantiate(options[2], PlacementPose.position + newpose, PlacementPose.rotation);
     }
 
     void ARPlaceObject()
@@ -95,13 +133,13 @@ public class AlphaQuiz : MonoBehaviour
         Debug.Log(alphabets[index]);
 
         spawnedObject = Instantiate(options[0], PlacementPose.position - newpose, PlacementPose.rotation);
-        spawnedObject = Instantiate(options[1], PlacementPose.position, PlacementPose.rotation);
-        spawnedObject = Instantiate(options[2], PlacementPose.position + newpose, PlacementPose.rotation);
+        spawnedObject1 = Instantiate(options[1], PlacementPose.position, PlacementPose.rotation);
+        spawnedObject2 = Instantiate(options[2], PlacementPose.position + newpose, PlacementPose.rotation);
 
-        spawnedObject = Instantiate(alphabets[index], PlacementPose.position + newpose2, PlacementPose.rotation);
-        spawnedObject = Instantiate(f, PlacementPose.position + newpose3, PlacementPose.rotation);
-        spawnedObject = Instantiate(o, PlacementPose.position + newpose4, PlacementPose.rotation);
-        spawnedObject = Instantiate(r, PlacementPose.position + newpose5, PlacementPose.rotation);
+        // spawnedObject3 = (GameObject)Instantiate(alphabets[index], PlacementPose.position + newpose2, PlacementPose.rotation);
+        // spawnedObject4 = (GameObject)Instantiate(f, PlacementPose.position + newpose3, PlacementPose.rotation);
+        // spawnedObject5 =(GameObject)Instantiate(o, PlacementPose.position + newpose4, PlacementPose.rotation);
+        // spawnedObject6 =(GameObject)Instantiate(r, PlacementPose.position + newpose5, PlacementPose.rotation);
 
 
     }
@@ -177,6 +215,35 @@ public class AlphaQuiz : MonoBehaviour
                 {
                     Debug.Log("Correct answer");
                     StartCoroutine(Winner());
+                    Destroy(spawnedObject);
+                    Destroy(spawnedObject1);
+                    Destroy(spawnedObject2);
+                    // Destroy(spawnedObject3);
+                    // Destroy(spawnedObject4);
+                    // Destroy(spawnedObject5);
+                    // Destroy(spawnedObject6);
+                    createQuestion();
+                    Vector3 newpose =  new Vector3(0.4f,0f,0f);
+
+                    // Vector3 newpose2 =  new Vector3(0f,0.3f,0f);
+                    // Vector3 newpose3 =  new Vector3(0.1f,0.3f,0f);
+                    // Vector3 newpose4 =  new Vector3(0.2f,0.3f,0f);
+                    // Vector3 newpose5 =  new Vector3(0.3f,0.3f,0f);
+
+
+                    Debug.Log(options[0]);
+                    Debug.Log(options[1]);
+                    Debug.Log(options[2]);
+                    Debug.Log(alphabets[index]);
+
+                    spawnedObject = (GameObject)Instantiate(options[0], PlacementPose.position - newpose, PlacementPose.rotation);
+                    spawnedObject1 = (GameObject)Instantiate(options[1], PlacementPose.position, PlacementPose.rotation);
+                    spawnedObject2 = (GameObject)Instantiate(options[2], PlacementPose.position + newpose, PlacementPose.rotation);
+
+                    // spawnedObject3 = (GameObject)Instantiate(alphabets[index], PlacementPose.position + newpose2, PlacementPose.rotation);
+                    // spawnedObject4 = (GameObject)Instantiate(f, PlacementPose.position + newpose3, PlacementPose.rotation);
+                    // spawnedObject5 =(GameObject)Instantiate(o, PlacementPose.position + newpose4, PlacementPose.rotation);
+                    // spawnedObject6 =(GameObject)Instantiate(r, PlacementPose.position + newpose5, PlacementPose.rotation);
                 }
                 else if(hit.collider.gameObject.name == arObjects[op2].name)
                 {
@@ -190,6 +257,25 @@ public class AlphaQuiz : MonoBehaviour
                 }
             }
         }
+    }
+
+    public void restartbtn()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        
+    }
+
+    public void backbtn()
+    {
+        if(SceneManager.GetActiveScene().name == "QuizScene")
+        {
+            SceneManager.LoadScene("HomeScene");
+        }
+        else
+        {
+            SceneManager.LoadScene("Scroll");
+        }
+        
     }
 
 
